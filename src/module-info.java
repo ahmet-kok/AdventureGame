@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kokah
+ *
+ */
+module AdventureGame {
+}
